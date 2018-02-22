@@ -1,9 +1,10 @@
-# ratp_project
-foltyn axel
-robin barthelemy
-chartier romain
-quilliou edouard
+# RATP_Project
 
-nous allons travailler sur la modélisation d'un réseau de transport (métro).
+FOLTYN Axel
+ROBIN Barthelemy
+CHARTIER Romain
+QUILLIOU Edouard
 
-On va commencé par faire un métro a 2 gares
+Nous allons travailler sur la modélisation d'un réseau de transport (métro).
+
+On va commencer par faire un métro à 2 gares.
