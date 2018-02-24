@@ -16,7 +16,7 @@ Nous allons travailler sur la modélisation d'un réseau de transport (métro).
  -nombre de personne dans le metro  
  -initialisatien du temps de la gare  
 
-######### Itineraire RATP #########  
+######### src\Itineraire RATP #########  
 
 -Programme python à utiliser de préférence sur Spyder(Anaconda) ou sur un IDLE ayant les bibliothèques suivantes : os, tkinter.  
 -Itineraire RATP.py est le mainfile qui rend le calcul d'itinéraire dans une interface graphique.  
