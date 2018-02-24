@@ -18,7 +18,7 @@ Nous allons travailler sur la modélisation d'un réseau de transport (métro).
 
 ######### Itineraire RATP #########  
 
--Programme python à utiliser de préférence sur Spyder(Anaconda) ou sur un IDLE ayant les bibliothèques suivantes : os, tkinter. 
+-Programme python à utiliser de préférence sur Spyder(Anaconda) ou sur un IDLE ayant les bibliothèques suivantes : os, tkinter.  
 -Itineraire RATP.py est le mainfile qui rend le calcul d'itinéraire dans une interface graphique.  
 -LibMetroCsv.py est la bibliothèque contenant les fonctions qui permettent de lire les fichiers .csv et de créer une liste et un dictionnaire ordonné des stations par lignes de métro.  
 -LibMetroIti.py est la bibliothèque qui à partir des données extraites de LibMetroCsv.py, calcule l'itinéraire le plus court. Il contient aussi fonctions annexes.  
