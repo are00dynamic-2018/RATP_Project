@@ -3,11 +3,18 @@
 ############ Import & Define ############
 
 from LibMetroCsv_NB import *
+import os
 
-L=listeMetroCsv(".\\data\\liste stations.csv")
-Lex=listeMetroCsvStation(".\\data\\liste stations exceptions-fourche2.csv")
-Lf=listeMetroCsvStation(".\\data\\liste stations fourche1.csv")
-Linfos=listeMetroCsvInfos(".\\data\\infos_metro.csv")
+if os.name == 'nt':
+    L=listeMetroCsv(".\\data\\liste stations.csv") #list([ligne,station,num_station])
+    Lex=listeMetroCsvStation(".\\data\\liste stations exceptions-fourche2.csv") #list([ligne,station,num_station])
+    Lf=listeMetroCsvStation(".\\data\\liste stations fourche1.csv") #list([ligne,station,num_station])
+    Linfos=listeMetroCsvInfos(".\\data\\infos_metro.csv") #list([ligne,nb_arrets,temps de trajet, capacité rame])
+else:
+    L=listeMetroCsv("./data/liste stations.csv") #list([ligne,station,num_station])
+    Lex=listeMetroCsvStation("./data/liste stations exceptions-fourche2.csv") #list([ligne,station,num_station])
+    Lf=listeMetroCsvStation("./data/liste stations fourche1.csv") #list([ligne,station,num_station])
+    Linfos=listeMetroCsvInfos("./data/infos_metro.csv") #list([ligne,nb_arrets,temps de trajet, capacité rame])
 
 ############ Fonctions ############
 
