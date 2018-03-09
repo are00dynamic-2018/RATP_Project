@@ -27,7 +27,7 @@ Nous allons travailler sur la modélisation d'un réseau de transport (métro).
 ######### src\ RATP_notebook_test_edouard.ipynb & LibMetroIti_NB.py & LibMetroCsv_NB.py #########  
 
 - RATP_notebook_test_edouard.ipynb est une version test de RATP_notebook.ipynb  
-Ici, on donne à chaque utilisateur du métro un itinéraire sous la forme d'une liste de listes comprenant [station-n, station-n+1, ligne, temps moyenne d'attente sur la ligne, capacité de la rame de la ligne].    
+Ici, on donne à chaque utilisateur du métro un itinéraire sous la forme d'une liste de listes comprenant [station-n, station-n+1, ligne, temps moyenne d'attente sur la ligne par station en seconde, capacité de la rame de la ligne].    
 Par exemple :   
 print(listage_stations_itineraire("PORTE DE VANVES","M13","JUSSIEU","M10"))  
 [['PORTE DE VANVES', 'PLAISANCE', 'M13', 210.0, '574'], ['PLAISANCE', 'PERNETY', 'M13', 210.0, '574'], ['PERNETY', 'GAITE', 'M13', 210.0, '574'], ['GAITE', 'MONTPARNASSE', 'M13', 210.0, '574'], ['MONTPARNASSE', 'SAINT-PLACIDE', 'M4', 330.0, '574'], ['SAINT-PLACIDE', 'SAINT-SULPICE', 'M4', 330.0, '574'], ['SAINT-SULPICE', 'SAINT-GERMAIN-DES-PRES', 'M4', 330.0, '574'], ['SAINT-GERMAIN-DES-PRES', 'ODEON', 'M4', 330.0, '574'], ['ODEON', 'CLUNY-LA-SORBONNE', 'M10', 300.0, '574'], ['CLUNY-LA-SORBONNE', 'MAUBERT-MUTUALITE', 'M10', 300.0, '574'], ['MAUBERT-MUTUALITE', 'CARDINAL-LEMOINE', 'M10', 300.0, '574'], ['CARDINAL-LEMOINE', 'JUSSIEU', 'M10', 300.0, '574']]  
