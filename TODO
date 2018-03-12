@@ -2,3 +2,4 @@
  mettre si possible le dictionnaire en liste. DONE
  faire les Variations de ar, so et ta.
  avoir une liste  d'itinéraire, une liste name, station_suivante, temps avant d'arriver, capacité de métro.
+ faire le update de la classe Station.
