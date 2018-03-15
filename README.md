@@ -9,12 +9,11 @@ QUILLIOU Edouard
 
 Nous allons travailler sur la modélisation d'un réseau de transport (métro).  
 
- - On va commencer par faire un métro à 2 gares.  
- - Nos parametres seront :  
- - nombre d'arrivant dans la gare  
- - nombre de partant dans la gare  
- - temps entre chaque metro  
- - capacité d'un metro  
+Nous avons commencé par faire une simulation métro à 2 gares avec pour parametres :  
+ - le pourcentage d'arrivant dans une gare (ar)
+ - le pourcentage de personnes sortant de la gare apres avoir trop attendu (so)
+ - Le nombre total de personne presente dans le metro (N) 
+ - La capacité d'un metro (cm)
  - nombre de personne dans le metro  
  - initialisatien du temps de la gare  
 
