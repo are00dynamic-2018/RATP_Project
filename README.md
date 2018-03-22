@@ -1,6 +1,5 @@
 # RATP_Project
 
-![plan](RATP_Project/image/cerclemetro.png)
 ![plan](image/cerclemetro.png)  
 
 FOLTYN Axel  
