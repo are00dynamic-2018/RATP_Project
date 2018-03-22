@@ -22,18 +22,15 @@ Nous avons commencé par faire une simulation d'une ligne métro à 2 gares avec
  
  Nous créer les gares avec une classe :  
 
-![capture d'écran](RATP_Project/image/capture_class.png)
 
 ![capture d'écran](image/capture_class.png)
 
 Nous avons créer une fonction simulation qui renvoie le nombre de personne presente dans les gares en fonction du temps.  
 Nous avons ensuite créer un fonction dessin afin de mettre en forme ses resultats :  
-![courbe](RATP_Project/image/capture_courbe.png )
 ![courbe](image/capture_courbe.png)  
 Pour mieux nous repartir les taches nous avons decidé de créer un TODO qui liste les différents travaux à faire.  
 
 Pour verifier l'exactitude de notre simullation nous avons decider d'afficher la moyenne de 100 simulations ainsi que des barres d'erreurs dans un intervalle de confiance de 95%.  
-![courbe](RATP_Project/image/capture_barrederreur.png )  
 ![courbe](image/capture_barrederreur.png)  
 
 Nous avons ensuite fait une simulation avec trois gare mais nous avons decider d'arreter cette simulation car peu pertinente.
