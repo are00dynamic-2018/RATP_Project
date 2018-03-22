@@ -20,9 +20,9 @@ Nous avons commencé par faire une simulation d'une ligne métro à 2 gares avec
  
  Nous créer les gares avec une classe :
 
-![_](https://github.com/are00dynamic-2018/RATP_Project/capture_class.png)
+![capture d'écran](https://github.com/are00dynamic-2018/RATP_Project/capture_class.png)
 
-![_](capture_class.png)
+![capture d'écran](capture_class.png)
 
 ######### src\Itineraire RATP.py & LibMetroIti.py & LibMetroCsv.py #########  
 
