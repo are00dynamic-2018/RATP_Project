@@ -8,14 +8,19 @@ CHARTIER Romain
 QUILLIOU Edouard  
 
 Nous allons travailler sur la modélisation d'un réseau de transport (métro).  
-
-Nous avons commencé par faire une simulation métro à 2 gares avec pour parametres :  
+Pour faire notre premiere simulation nous avons reflechi aux parametres que nous devions utilisé
+Nous avons commencé par faire une simulation d'une ligne métro à 2 gares avec pour parametres :  
  - le pourcentage d'arrivant dans une gare (ar)
  - le pourcentage de personnes sortant de la gare apres avoir trop attendu (so)
- - Le nombre total de personne presente dans le metro (N) 
- - La capacité d'un metro (cm)
- - nombre de personne dans le metro  
- - initialisatien du temps de la gare  
+ - Le nombre total de personne presente dans la gare au depart (N) 
+ - La capacité d'un train (cm)
+ - initialisatien du temps de la gare (t)
+ - Le nombre de personne dans la gare a l'instant t (nb)
+ - le temps d'attente entre chaque metro (ta)
+ 
+ Nous créer les gares avec une classe :
+
+![exemple](capture_class.png)
 
 ######### src\Itineraire RATP.py & LibMetroIti.py & LibMetroCsv.py #########  
 
