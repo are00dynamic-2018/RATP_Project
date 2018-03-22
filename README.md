@@ -18,11 +18,18 @@ Nous avons commencé par faire une simulation d'une ligne métro à 2 gares avec
  - Le nombre de personne dans la gare a l'instant t (nb)
  - le temps d'attente entre chaque metro (ta)
  
- Nous créer les gares avec une classe :
+ Nous créer les gares avec une classe :  
 
-![capture d'écran](https://github.com/are00dynamic-2018/RATP_Project/capture_class.png)
+![capture d'écran](https://github.com/are00dynamic-2018/RATP_Project/image/capture_class.png)
 
-![capture d'écran](capture_class.png)
+![capture d'écran](image/capture_class.png)
+
+Nous avons créer une fonction simulation qui renvoie le nombre de personne presente dans les gares en fonction du temps.  
+Nous avons ensuite créer un fonction dessin afin de mettre en forme ses resultats :  
+![courbe](https://github.com/are00dynamic-2018/RATP_Project/image/capture_courbe.png)
+![courbe](image/capture_courbe.png)  
+Pour mieux nous repartir les taches nous avons decidé de créer un TODO qui liste les différents travaux à faire.
+
 
 ######### src\Itineraire RATP.py & LibMetroIti.py & LibMetroCsv.py #########  
 
