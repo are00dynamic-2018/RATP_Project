@@ -9,6 +9,14 @@ QUILLIOU Edouard
 
 [reference_code](https://are00dynamic-2018.github.io/RATP_Project/sous_partie/référence_code)
 
+[semaine1](https://are00dynamic-2018.github.io/RATP_Project/sous_partie/semaine1)  
+[semaine2](https://are00dynamic-2018.github.io/RATP_Project/sous_partie/semaine2)  
+[semaine3](https://are00dynamic-2018.github.io/RATP_Project/sous_partie/semaine3)  
+[semaine4](https://are00dynamic-2018.github.io/RATP_Project/sous_partie/semaine4)  
+[semaine5](https://are00dynamic-2018.github.io/RATP_Project/sous_partie/semaine5)  
+[semaine6](https://are00dynamic-2018.github.io/RATP_Project/sous_partie/semaine6)  
+[semaine7](https://are00dynamic-2018.github.io/RATP_Project/sous_partie/semaine7)  
+
 Nous allons travailler sur la modélisation d'un réseau de transport (métro).  
 Pour faire notre premiere simulation nous avons reflechi aux parametres que nous devions utilisé
 Nous avons commencé par faire une simulation d'une ligne métro à 2 gares avec pour parametres :  
