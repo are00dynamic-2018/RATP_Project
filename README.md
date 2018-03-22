@@ -20,7 +20,7 @@ Nous avons commencé par faire une simulation d'une ligne métro à 2 gares avec
  
  Nous créer les gares avec une classe :  
 
-![capture d'écran](https://github.com/are00dynamic-2018/RATP_Project/image/capture_class.png)
+![capture d'écran](RATP_Project/image/capture_class.png)
 
 ![capture d'écran](image/capture_class.png)
 
