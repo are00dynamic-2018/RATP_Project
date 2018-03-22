@@ -26,7 +26,7 @@ Nous avons commencé par faire une simulation d'une ligne métro à 2 gares avec
 
 Nous avons créer une fonction simulation qui renvoie le nombre de personne presente dans les gares en fonction du temps.  
 Nous avons ensuite créer un fonction dessin afin de mettre en forme ses resultats :  
-![courbe](https://github.com/are00dynamic-2018/RATP_Project/image/capture_courbe.png)
+![courbe](RATP_Project/image/capture_courbe.png )
 ![courbe](image/capture_courbe.png)  
 Pour mieux nous repartir les taches nous avons decidé de créer un TODO qui liste les différents travaux à faire.
 
