@@ -12,7 +12,8 @@ Nous avons commencé par faire une simulation d'une ligne métro à 2 gares avec
  - initialisatien du temps de la gare (t)
  - Le nombre de personne dans la gare a l'instant t (nb)
  - le temps d'attente entre chaque metro (ta)
-
+ 
+ Nous avons recuperer les infos sur le site de la RATP afin de les mettre dans un fichier csv.
 
 
 [semaine_suivante](https://are00dynamic-2018.github.io/RATP_Project/sous_partie/semaine2)
