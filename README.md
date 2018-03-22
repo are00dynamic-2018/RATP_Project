@@ -30,9 +30,12 @@ Nous avons ensuite créer un fonction dessin afin de mettre en forme ses resulta
 ![courbe](image/capture_courbe.png)  
 Pour mieux nous repartir les taches nous avons decidé de créer un TODO qui liste les différents travaux à faire.  
 
-Pour verifier l'exactitude de notre simullation nous avons decider d'afficher la moyenne de (repet, valeur que nous avons initialisé à 100) ainsi que des barres d'erreurs.  
+Pour verifier l'exactitude de notre simullation nous avons decider d'afficher la moyenne de 100 simulations ainsi que des barres d'erreurs dans un intervalle de confiance de 95%.  
 ![courbe](RATP_Project/image/capture_barrederreur.png )  
 ![courbe](image/capture_barrederreur.png)  
+
+Nous avons ensuite fait une simulation avec trois gare mais nous avons decider d'arreter cette simulation car peu pertinente.
+Nous avons remanié notre classe Station afin de pouvoir initialiser les gares avec leur nom et leurs gares voisines.
 
 ######### src\Itineraire RATP.py & LibMetroIti.py & LibMetroCsv.py #########  
 
