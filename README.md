@@ -16,6 +16,7 @@ QUILLIOU Edouard
 [semaine5](https://are00dynamic-2018.github.io/RATP_Project/sous_partie/semaine5)  
 [semaine6](https://are00dynamic-2018.github.io/RATP_Project/sous_partie/semaine6)  
 [semaine7](https://are00dynamic-2018.github.io/RATP_Project/sous_partie/semaine7)  
+[semaine8](https://are00dynamic-2018.github.io/RATP_Project/sous_partie/semaine8)  
 
 Nous allons travailler sur la modélisation d'un réseau de transport (métro).  
 Pour faire notre premiere simulation nous avons reflechi aux parametres que nous devions utilisé
